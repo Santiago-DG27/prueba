@@ -1,0 +1,30 @@
+
+h2{
+    font-weight: 700;
+}
+p{
+    font-weight: 300;
+}
+.padre{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    text-align: center;
+}
+
+
+
+.precio{
+    color: cadetblue;
+}
+
+.columna{
+    background:gray;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
